@@ -1,0 +1,155 @@
+{
+    "aria": {
+        "sortAscending": ": ustunni qiymatlar o‘sishi bo‘yicha tartiblash",
+        "sortDescending": ": ustunni qiymatlar kamayishi bo‘yicha tartiblash"
+    },
+    "autoFill": {
+        "cancel": "Bekor qil",
+        "fill": "Hamma katakni <i>%d<\/i> bilan to‘ldirish",
+        "fillHorizontal": "Kataklarni gorizontal to‘ldirish",
+        "fillVertical": "Kataklarni vertikal to‘ldirish"
+    },
+    "buttons": {
+        "colvis": "Ustunlarni ko‘rsatish ",
+        "colvisRestore": "Ko‘rsatish qayta tiklash",
+        "copy": "Ko‘chirish"
+    },
+    "datetime": {
+        "hours": "Soat",
+        "minutes": "Minut",
+        "next": "keyingi",
+        "previous": "avvalgi",
+        "seconds": "sekund",
+        "unknown": "-"
+    },
+    "decimal": ".",
+    "editor": {
+        "close": "Yopish",
+        "create": {
+            "button": "Yangi",
+            "submit": "Yangi elementni saqlash",
+            "title": "Yangi element qo‘shish"
+        },
+        "edit": {
+            "button": "O‘zgartirish",
+            "submit": "O‘zgarishlarni saqlash",
+            "title": "Elementni o‘zgartirish"
+        },
+        "error": {
+            "system": "Tizimda hatolik yuz berdi"
+        },
+        "multi": {
+            "title": "ko‘p qiymat kiritilgan"
+        },
+        "remove": {
+            "button": "O‘chirish",
+            "confirm": {
+                "_": "Siz %d ta satrni o‘chirishga rozimisiz?",
+                "1": "Siz bitta satrni o‘chirishga rozimisiz?"
+            },
+            "submit": "O‘chirish",
+            "title": "Elementni o‘chirish"
+        }
+    },
+    "emptyTable": "Jadval bo‘sh",
+    "info": "Ma’lumotlar: _TOTAL_ (_START_- _END_)",
+    "infoEmpty": "Ma’lumotlar: 0 (0- 0)",
+    "infoFiltered": "",
+    "infoThousands": "  ",
+    "lengthMenu": "_MENU_ ta satr ko‘rinsin",
+    "loadingRecords": "Yuklanmoqda...",
+    "paginate": {
+        "first": "Dastlabki",
+        "last": "Ohirgi",
+        "next": "Keyingi",
+        "previous": "Avvalgi"
+    },
+    "processing": "Bajarilmoqda...",
+    "search": "Qidirish:",
+    "searchBuilder": {
+        "add": "Yangi",
+        "button": {
+            "_": "Qidirish shartlari(%d ta)",
+            "0": "Qidirish shartlari"
+        },
+        "clearAll": "Tozalash",
+        "condition": "Shart",
+        "conditions": {
+            "array": {
+                "contains": "qatnashgan",
+                "empty": "bo‘sh",
+                "equals": "teng",
+                "not": "teskarisi",
+                "notEmpty": "bo‘sh emas",
+                "without": "qatnashmagan"
+            },
+            "date": {
+                "after": "dan keyin",
+                "before": "dan oldin",
+                "between": "oralig‘ida",
+                "empty": "kiritilmagan",
+                "equals": "barobar",
+                "not": "teskarisi",
+                "notBetween": "oralig‘ida emas",
+                "notEmpty": "bo‘sh emas"
+            },
+            "number": {
+                "between": "orasida",
+                "empty": "kiritilmagan",
+                "equals": "barobar",
+                "gt": "dan katta",
+                "gte": "dan katta yoki teng",
+                "lt": "dan kichik",
+                "lte": "dan kichik yoki teng",
+                "not": "teskarisi",
+                "notBetween": "oralig‘ida emas",
+                "notEmpty": "bo‘sh emas"
+            },
+            "string": {
+                "contains": "qatnashgan",
+                "empty": "bo‘sh",
+                "endsWith": "bilan tugagan",
+                "equals": "teng",
+                "not": "teskarisi",
+                "notEmpty": "bo‘sh emas",
+                "startsWith": "dan boshlanadi"
+            }
+        },
+        "data": "Ma’lumot",
+        "deleteTitle": "Filtr shartlarini o‘chirish",
+        "logicAnd": "Va",
+        "logicOr": "Yoki",
+        "title": {
+            "_": "Qidirish shartlari(%d ta)",
+            "0": "Qidirish shartlari"
+        },
+        "value": "Qiymat"
+    },
+    "searchPanes": {
+        "clearMessage": "Tozalash",
+        "collapse": {
+            "_": "Qidirish paneli (%d)",
+            "0": "Qidirish paneli"
+        },
+        "count": "Miqdor",
+        "emptyPanes": "Qidirish paneli yo‘q",
+        "loadMessage": "Qidirish paneli yuklanmoqda...",
+        "title": "Faol filtr - %d"
+    },
+    "select": {
+        "cells": {
+            "_": "%d katak tanlandi",
+            "1": "1 katak tanlandi"
+        },
+        "columns": {
+            "_": "%d ta ustun tanlandi",
+            "1": "1 ta ustun tanlandi"
+        },
+        "rows": {
+            "_": "%d ta satr tanlandi",
+            "1": "1 ta satr tanlandi"
+        }
+    },
+    "thousands": " ",
+    "zeroRecords": "topilmadi"
+}

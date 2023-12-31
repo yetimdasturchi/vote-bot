@@ -1,0 +1,149 @@
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url('fonts/helvetica/HelveticaNeueCyr-Medium.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  position: relative;
+  font-family: HelveticaNeue, sans-serif;
+  background-color: #025ffa;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+body.white {
+  background-color: #f1f6ff !important;
+}
+
+button.btn.btn-light {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05) !important;
+  border-radius: 12px;
+}
+
+.btn-hsize {
+  height: 45px !important;
+}
+
+.title {
+  text-transform: uppercase;
+  color: white;
+}
+
+.arrow {
+  width: 7px;
+  margin-right: 5px;
+}
+
+.title-black {
+  color: black;
+  text-transform: uppercase;
+  margin-top: 30px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.detail-brand {
+  margin: 0 auto;
+  width: 200px;
+  text-align: center;
+  margin-top: 30px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+/*.container-btn {
+  width: 100%;
+}*/
+
+.btn-red {
+  min-width: 150px;
+  margin: 0 auto;
+  background-color: #ff0000;
+  margin-bottom: 20px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c191d;
+}
+
+footer>.footer-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-logo {
+  margin-top: 15rpx;
+  margin-bottom: 5px;
+}
+
+.btn-vote {
+  width: 300px;
+}
+
+.content {
+  margin-bottom: 100px;
+}
+
+.center img {
+  /* width: 100%; */
+  display: block;
+  width: 100px;
+
+  margin: 0 auto;
+}
+
+.btn-vote {
+  width: 300px;
+}
+
+.content {
+  margin-bottom: 100px;
+}
+
+.text-left{
+  text-align: left;
+}
+
+img.rounded {
+  margin-right: 12px;
+  float: left;
+  border: solid #e1dfdf4d 1px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.vertical-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn.btn-danger{
+  margin-right: 5px;
+}
+
+@media screen and (max-width: 340px) {
+  .btn.btn-danger{
+    font-size: 14px;
+  }
+}
+
+.voted{
+  background-color: #118011;
+  border: solid #ffffff61 1px;
+  color: #fff;
+}
+
+.voted .arrow{
+  filter: invert(1);
+}

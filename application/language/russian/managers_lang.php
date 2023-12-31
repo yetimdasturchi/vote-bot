@@ -1,0 +1,46 @@
+<?php
+
+$lang['managers_managers'] = "Админстраторы";
+$lang['managers_records'] = "Записи";
+$lang['managers_records_10'] = "10 штук";
+$lang['managers_users_records_25'] = "25 штук";
+$lang['managers_records_50'] = "50 штук";
+$lang['managers_records_all'] = "Все";
+$lang['managers_columns'] = "Столбцы";
+$lang['manager_id'] = "ID";
+$lang['manager_telegram'] = "Телеграм ";
+$lang['manager_name'] = "Наименование";
+$lang['manager_created'] = "Добавлено";
+$lang['manager_logged'] = "Последний визит";
+$lang['manager_action'] = "Действие";
+$lang['manager_status'] = "Статус";
+$lang['manager_active'] = "Активный";
+$lang['manager_inactive'] = "Не активированный";
+$lang['manager_moduls'] = "Модули";
+$lang['manager_moduls_required'] = "Необходимые права не были установлены";
+$lang['manager_unidentified'] = "Неопределенное
+";
+$lang['manager_add'] = "Добавить";
+$lang['manager_save'] = "Сохранить";
+$lang['manager_edit'] = "Редактировать";
+$lang['manager_enter_telegram_id'] = "Введите идентификатор Telegram";
+$lang['manager_enter_name'] = "Введите наименование";
+$lang['managers_permissions_channels'] = "Каналы";
+$lang['managers_permissions_managers'] = "Админстраторы";
+$lang['managers_permissions_users'] = "Пользователи";
+$lang['managers_permissions_notifications'] = "Уведомления";
+$lang['managers_permissions_stats'] = "Статистика";
+$lang['managers_permissions_polls'] = "Опросы";
+$lang['managers_permissions_telegram_bot'] = "Телеграм-бот";
+$lang['managers_permissions_modules'] = "Модули";
+$lang['managers_permissions_view'] = "Осмотр";
+$lang['managers_permissions_delete'] = "Удалить";
+$lang['managers_permissions_add'] = "Добавить";
+$lang['managers_permissions_edit'] = "Редактировать";
+$lang['manages_successfully_added'] = "Администратор успешно добавлен";
+$lang['manages_successfully_edited'] = "Администратор успешно отредактирован";
+$lang['manages_successfully_removed'] = "Администратор успешно удален";
+$lang['managers_no_id_specified'] = "Идентификатор не указан";
+$lang['managers_manager_not_found'] = "Админстратор не найден";
+$lang['managers_method_not_allowed'] = " Не разрешенный метод";
+$lang['managers_do_you_really_remove'] = "Вы действительно хотите отключить этого администратора?";

@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169 18" width="169" height="18">
+  <title>New Project</title>
+  <style>
+    tspan { white-space:pre } 
+    .t0 { font-size: 10px;fill: #000000;font-weight: 400;font-family: "DelaGothicOne-Regular", "Dela Gothic One" } 
+  </style>
+  <text id="YOUR TELEGRAM BOT" style="transform: matrix(1,0,0,1,16,12)" >
+    <tspan x="0" y="0" class="t0">Y</tspan><tspan  y="0" class="t0">O</tspan><tspan  y="0" class="t0">U</tspan><tspan  y="0" class="t0">R</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">G</tspan><tspan  y="0" class="t0">R</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">M</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">B</tspan><tspan  y="0" class="t0">O</tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">
+</tspan>
+  </text>
+</svg>
