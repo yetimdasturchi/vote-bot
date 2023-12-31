@@ -86,7 +86,7 @@ MySQL ma'lumotlar bazasida yangi baza ochib unga `data.sql` faylini yuklang. Shu
 Telegram bot bilan ulanish qismi webhook versiyasi uchun moslashgan. Quyidagi misol tarzida berilgan havoladan `TOKENINGIZ`, `domain.uz` va `webhook_secret` (config.ini faylida qo'shilgan) bandlarini o'zingizga moslang. Shundan so'ng brauzer orqali shu havolaga yo'l oling.
 
 ```
-https://api.telegram.org/botTOKENINGIZ/setwebhooki?url=https://domain.uz/hook?secret=webhook_secret
+https://api.telegram.org/botTOKENINGIZ/setwebhook?url=https://domain.uz/hook?secret=webhook_secret
 ```
 
 ## Cronjob va Servislar
